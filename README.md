@@ -4,13 +4,13 @@ Web Developer with a proven passion for collaborating with clients, to design an
 
 :eyes: View my portfolio here: [Portfolio](https://cameronpoehner.com/) <br>
 
-Check my resume out here: [Cameron's Resume](https://docs.google.com/document/d/1aG_N7DZbSbnK36UjneL0syh_t2EVXvObQL96j52qQAk/edit?usp=sharing)
+:chart_with_upwards_trend: Check my resume out here: [Cameron's Resume](https://docs.google.com/document/d/1aG_N7DZbSbnK36UjneL0syh_t2EVXvObQL96j52qQAk/edit?usp=sharing)
 
-Message me here: [LinkedIn](https://www.linkedin.com/in/cameron-poehner/)
+:speech_balloon: Message me here: [LinkedIn](https://www.linkedin.com/in/cameron-poehner/)
 
-Reach me via email: [cameronpoehner@gmail.com](mailto:cameronpoehner@gmail.com)
+:e-mail: Reach me via email: [cameronpoehner@gmail.com](mailto:cameronpoehner@gmail.com)
 
-Call me here: (661)205-6247
+:phone: Call me here: (661)205-6247
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cameron-poehner&layout=compact)](https://github.com/cameron-poehner/github-readme-stats) <br>
 
