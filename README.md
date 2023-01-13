@@ -12,9 +12,9 @@ Frontend Engineer with 2 years experience collaborating with designers and produ
 
 :phone: Call me here: (661)205-6247
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cameron-poehner&layout=compact)](https://github.com/cameron-poehner/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=cameron-poehner&layout=compact)](https://github.com/cameron-poehner) <br>
 
-[![Cameron's github stats](https://github-readme-stats.vercel.app/api?username=cameron-poehner&show_icons=true&theme=dark)](https://github.com/cameron-poehner/github-readme-stats)
+[![Cameron's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cameron-poehner&show_icons=true&theme=dark)](https://github.com/cameron-poehner)
 <!--
 **cameron-poehner/cameron-poehner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
