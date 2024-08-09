@@ -1,16 +1,13 @@
-# Cameron Poehner <br>
+# Cameron Renfro <br>
 
 As a Full Stack Engineer, I excel at solving large-scale problems for enterprise applications serving tens of millions of customers around the world. At Nike, I harness my front-end expertise to deliver custom components for A/B testing to millions of users, utilizing Typescript, React, and Next.js. I have developed custom internal tools and automation scripts that boosted team productivity and executed a large-scale data migration project that deprecated a third-party CMS, saving over $11M annually. Additionally, I have provided robust server-side platform support for Nike training apps, ensuring they efficiently serve a global user base. Whether you need to build a new customer-facing product, automate internal processes to reduce costs, or optimize server-side business logic, I am ready to take on any challenge and exceed your expectations. <br>
 
-:eyes: View my portfolio here: [Portfolio](https://cameronpoehner.com/) <br>
+<!-- :chart_with_upwards_trend: Check my resume out here: [Cameron's Resume](https://docs.google.com/document/d/1aG_N7DZbSbnK36UjneL0syh_t2EVXvObQL96j52qQAk/edit?usp=sharing) -->
 
-:chart_with_upwards_trend: Check my resume out here: [Cameron's Resume](https://docs.google.com/document/d/1aG_N7DZbSbnK36UjneL0syh_t2EVXvObQL96j52qQAk/edit?usp=sharing)
+:speech_balloon: Message me here: [LinkedIn]([https://www.linkedin.com/in/cameron-clark-renfro/])
 
-:speech_balloon: Message me here: [LinkedIn](https://www.linkedin.com/in/cameron-poehner/)
+:e-mail: Reach me via email: [cameron@cameronclarkrenfro.com](mailto:cameron@cameronclarkrenfro.com)
 
-:e-mail: Reach me via email: [cameronpoehner@gmail.com](mailto:cameronpoehner@gmail.com)
-
-:phone: Call me here: (661)205-6247
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=cameron-poehner&layout=compact)](https://github.com/cameron-poehner) <br>
 
