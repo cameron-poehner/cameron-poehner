@@ -1,6 +1,6 @@
 # Cameron Poehner <br>
 
-Frontend Engineer with 2 years experience collaborating with designers and product owners to deliver exceptional UI components with React and GraphQL. Passionate about improving the web for all users with a high value on  accessibility, performance, and cross-browser support. Proven ability to deliver on AGILE teams, including SCRUM and Kanban. <br>
+As a Full Stack Engineer, I excel at solving large-scale problems for enterprise applications serving tens of millions of customers around the world. At Nike, I harness my front-end expertise to deliver custom components for A/B testing to millions of users, utilizing Typescript, React, and Next.js. I have developed custom internal tools and automation scripts that boosted team productivity and executed a large-scale data migration project that deprecated a third-party CMS, saving over $11M annually. Additionally, I have provided robust server-side platform support for Nike training apps, ensuring they efficiently serve a global user base. Whether you need to build a new customer-facing product, automate internal processes to reduce costs, or optimize server-side business logic, I am ready to take on any challenge and exceed your expectations. <br>
 
 :eyes: View my portfolio here: [Portfolio](https://cameronpoehner.com/) <br>
 
