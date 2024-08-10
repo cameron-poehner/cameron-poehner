@@ -11,7 +11,7 @@ As a Full Stack Engineer, I excel at solving large-scale problems for enterprise
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=cameron-renfro&layout=compact)](https://github.com/cameron-renfro) <br>
 
-[![Cameron's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cameron-renfro&show_icons=true&theme=dark)](https://github.com/cameron-renfro)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cameron-renfro&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **cameron-renfro/cameron-renfro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
