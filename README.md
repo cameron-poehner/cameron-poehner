@@ -4,7 +4,7 @@ As a Full Stack Engineer, I excel at solving large-scale problems for enterprise
 
 <!-- :chart_with_upwards_trend: Check my resume out here: [Cameron's Resume](https://docs.google.com/document/d/1aG_N7DZbSbnK36UjneL0syh_t2EVXvObQL96j52qQAk/edit?usp=sharing) -->
 
-:speech_balloon: Message me here: [LinkedIn]([https://www.linkedin.com/in/cameron-clark-renfro/])
+:speech_balloon: Message me here: [LinkedIn](https://www.linkedin.com/in/cameron-clark-renfro)
 
 :e-mail: Reach me via email: [cameron@cameronclarkrenfro.com](mailto:cameron@cameronclarkrenfro.com)
 
