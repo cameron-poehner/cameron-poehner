@@ -8,6 +8,14 @@ As a Full Stack Engineer, I excel at solving large-scale problems for enterprise
 
 :e-mail: Reach me via email: [cameron@cameronclarkrenfro.com](mailto:cameron@cameronclarkrenfro.com)
 
+<br>
+<span style="display: inline-block;">
+  
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=cameron-renfro&layout=compact&theme=dark&background=000000)](https://github.com/cameron-renfro) <br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cameron-renfro&theme=dark&background=000000)](https://git.io/streak-stats)
+</span>
+<br>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -33,13 +41,6 @@ As a Full Stack Engineer, I excel at solving large-scale problems for enterprise
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="Confluence" title="confluence" height="40" width="40" />&nbsp;
 
 </div>
-<br>
-<span style="display: inline-block;">
-  
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=cameron-renfro&layout=compact&theme=dark&background=000000)](https://github.com/cameron-renfro) <br>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cameron-renfro&theme=dark&background=000000)](https://git.io/streak-stats)
-</span>
 <!--
 **cameron-renfro/cameron-renfro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
