@@ -31,7 +31,7 @@ As a Full Stack Engineer, I excel at solving large-scale problems for enterprise
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=cameron-renfro&layout=compact)](https://github.com/cameron-renfro) <br>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=cameron-renfro&layout=compact&theme=dark&background=000000)](https://github.com/cameron-renfro) <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cameron-renfro&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
