@@ -22,7 +22,11 @@ As a Full Stack Engineer, I excel at solving large-scale problems for enterprise
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material-ui" title="material-ui" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" title="tailwind css" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="graph QL:" title="graph QL" height="40" width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" title="jest" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" title="git" height="40" width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="es-lint" title="es-lint" height="40" width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vs-code" title="vs-code" height="40" width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="firefox" title="firefox" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" title="jenkins" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="aws" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" title="Jira" height="40" width="40" />&nbsp;
